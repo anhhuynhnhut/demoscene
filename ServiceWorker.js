@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-VirtualTour-0.1";
 const contentToCache = [
-    "Build/TestScene.loader.js",
-    "Build/TestScene.framework.js",
-    "Build/TestScene.data",
-    "Build/TestScene.wasm",
+    "Build/demoscene.loader.js",
+    "Build/demoscene.framework.js",
+    "Build/demoscene.data",
+    "Build/demoscene.wasm",
     "TemplateData/style.css"
 
 ];
